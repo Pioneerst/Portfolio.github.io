@@ -51,12 +51,13 @@ h1, h2, h3, h4, h5, h6 {
 #header {
   transition: ease-in-out 0s;
   position: relative;
-  height: 70 vh;
+  height: 70vh;
   display: flex;
   align-items: center;
   z-index: 997;
   overflow-y: auto;
 }
+
 
 #header * {
   transition: ease-in-out 0s;
